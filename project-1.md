@@ -17,7 +17,7 @@ Response
 
 ```json
 {
-  "status" : "code", : 200, // berdasarkan http status yg di inginkan  https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+  "status" : "code", : 200, // based on the desired http status  https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
   "response": "success", // fill this with success/ failed/error
   "message": "Exampe of success update data",
   "result" : {
