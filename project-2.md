@@ -57,25 +57,25 @@ dahulu.
 {
 	"message": "success get data",
 	"data": [
-		{
-			"id_user": 1,
-			"nama_user": "Udin",
-			"tanggal": "2020-10-16",
-			"waktu_masuk": "08:00:00",
-			"waktu_pulang": "17:00:00",
+    {
+      "id_user": 1,
+      "nama_user": "Udin",
+      "tanggal": "2020-10-16",
+      "waktu_masuk": "08:00:00",
+      "waktu_pulang": "17:00:00",
       "status_masuk": "APPROVED",
       "status_pulang": "REJECTED"
-		},
+    },
     {
-			"id_user": 2,
-			"nama_user": "Kosasih",
-			"tanggal": "2020-10-16",
-			"waktu_masuk": "08:00:00",
-			"waktu_pulang": "17:00:00",
+      "id_user": 2,
+      "nama_user": "Kosasih",
+      "tanggal": "2020-10-16",
+      "waktu_masuk": "08:00:00",
+      "waktu_pulang": "17:00:00",
       "status_masuk": "APPROVED",
       "status_pulang": "APPROVED"
-		}
-	]
+    }
+  ]
 }
 ```
 ### Keterangan
