@@ -77,8 +77,8 @@ dahulu.
 		}
 	]
 }
-
-/**
+```
+### Keterangan
 1. data absensi dibuat menjadi satu baris dari dua baris data di database
 2. nama_user diambil dari tabel users
 3. tanggal diambil dari field type = IN
@@ -86,5 +86,3 @@ dahulu.
 5. waktu_pulang diambil dari field wakttu dengan type = OUT
 6. status_masuk diambil dari field is_approve, true = APPROVE || false REJECT
 7. status_pulang diambil dari field is_approve
-**/
-```
