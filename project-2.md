@@ -55,8 +55,8 @@ dahulu.
 ## Get Data Response
 ```json
 {
-	"message": "success get data",
-	"data": [
+  "message": "success get data",
+  "data": [
     {
       "id_user": 1,
       "nama_user": "Udin",
