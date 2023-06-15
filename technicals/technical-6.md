@@ -308,5 +308,12 @@ Penentuan poin sebagai berikut:
 ## Output
 
 ```json
-[ { name: "Indonesia", group: "Y", match_played: 3, points: 0 } ]
+[ 
+  { 
+    "name": "Indonesia", 
+    "group": "Y", 
+    "match_played": 3, 
+    "points": 0 
+  }
+]
 ```
