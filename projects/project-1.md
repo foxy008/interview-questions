@@ -17,12 +17,12 @@ Response
 
 ```json
 {
-  "status" : "code", : 200, // based on the desired http status  https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
-  "response": "success", // fill this with success/ failed/error
-  "message": "Exampe of success update data",
-  "result" : {
-// fill this with data if not showin. the data .lease let this bla,
-}
+  "status: "{
+    "code", 200, // based on the desired http status  https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+    "response": "success", // fill this with success/failed/error
+    "message": "Exampe of success update data",
+  },
+  "result" : {} // fill this with data if not showing the data please let this blank
 ```
 
 ## Release 2
