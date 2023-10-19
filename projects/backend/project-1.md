@@ -34,7 +34,7 @@ dahulu.
 | id          | name        | email         |npp             | npp_supervisor | password |
 | ----------- | ----------- | ------------  | -------------- | -------------- | -------- |
 | 1           | Udin        | udin@mail.com | 1234           | 1111           | password |
-| 2           | Kosasih     | udin@mail.com | 5678           | 0000           | password |
+| 2           | Kosasih     | kosasih@mail.com | 5678           | 0000           | password |
 
 ### Table epresences
 
